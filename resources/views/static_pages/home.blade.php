@@ -2,9 +2,9 @@
 
 @section('content')
   <div class="jumbotron">
-    <h1>Hello Laravel</h1>
+    <h1>这是朱攀搭建的微博平台</h1>
     <p class="lead">
-      你现在所看到的是 <a href="https://learnku.com/courses/laravel-essential-training">Laravel 入门教程</a> 的示例项目主页。
+      欢迎注册使用
     </p>
     <p>
       一切，将从这里开始。
