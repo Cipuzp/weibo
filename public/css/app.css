@@ -11353,3 +11353,7 @@ section.user_info h1, section.user_info .h1 {
 .form-group {
   margin-bottom: 15px;
 }
+
+.text-right {
+  text-align: right;
+}
