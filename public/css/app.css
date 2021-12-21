@@ -11342,3 +11342,14 @@ section.user_info h1, section.user_info .h1 {
   float: none;
   max-width: 100px;
 }
+
+.form-control {
+  display: block;
+  width: 100%;
+  border-radius: 4px;
+  margin-top: 15px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
