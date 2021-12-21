@@ -11357,3 +11357,11 @@ section.user_info h1, section.user_info .h1 {
 .text-right {
   text-align: right;
 }
+
+.mr-3.gravatar {
+  margin-right: 20px;
+}
+
+.btn.btn-sm.btn-danger, .btn-group-sm > .btn.btn-danger {
+  float: right;
+}

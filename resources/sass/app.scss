@@ -1,14 +1,13 @@
-
 // Bootstrap
-@import '~bootstrap/scss/bootstrap';
+@import "~bootstrap/scss/bootstrap";
 
 body {
-    font-size: 14px;
-    font-weight: normal;
+  font-size: 14px;
+  font-weight: normal;
 }
 
 nav.navbar.navbar-expand-lg {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 /* footer */
@@ -75,13 +74,20 @@ section.user_info {
   width: 100%;
   border-radius: 4px;
   margin-top: 15px;
-  }
+}
 
 .form-group {
   margin-bottom: 15px;
 }
 
+.text-right {
+  text-align: right;
+}
 
-.text-right{
-  text-align:right;
+.mr-3.gravatar {
+  margin-right: 20px;
+}
+
+.btn.btn-sm.btn-danger {
+  float: right;
 }
