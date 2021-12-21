@@ -90,8 +90,17 @@ section.user_info {
 .media-body {
   position: relative;
 }
+
 .btn.btn-sm.btn-danger {
   position: relative;
   float: right;
   top: -48px;
+}
+
+.float-right{
+  float: right;
+}
+
+.mr-3{
+  margin-right: 10px;
 }

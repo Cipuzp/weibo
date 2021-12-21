@@ -11371,3 +11371,11 @@ section.user_info h1, section.user_info .h1 {
   float: right;
   top: -48px;
 }
+
+.float-right {
+  float: right;
+}
+
+.mr-3 {
+  margin-right: 10px;
+}
