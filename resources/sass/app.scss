@@ -87,7 +87,11 @@ section.user_info {
 .mr-3.gravatar {
   margin-right: 20px;
 }
-
+.media-body {
+  position: relative;
+}
 .btn.btn-sm.btn-danger {
+  position: relative;
   float: right;
+  top: -48px;
 }

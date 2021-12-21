@@ -13,7 +13,7 @@
             onsubmit="return confirm('您确定要删除本条微博吗？');">
             {{ csrf_field() }}
             {{ method_field('DELETE') }}
-            <button type="submit" class="btn btn-sm btn-danger">删除</button>
+            <button type="submit" class="btn btn-sm btn-danger ">删除</button>
         </form>
     @endcan
 </li>
